@@ -1,0 +1,25 @@
+body{
+    background-color: powderblue;
+}
+hr{
+    border-style: dotted none none;
+    border-color: blueviolet;
+    border-width: 5px;
+    width: 50px;
+}
+h1{
+    color: palevioletred;
+}
+h3{
+    color: palevioletred;
+}
+img{
+    border-radius: 150%;
+}
+li:hover{
+    width: 30%;
+    list-style: circle;
+    border-style: solid;
+    border-color: rgb(178, 152, 251);
+    
+}
